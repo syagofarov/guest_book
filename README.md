@@ -2,8 +2,8 @@
 
 ## Информация о проекте
 
-- **Ссылка на сайт:** [http://saviorcheg.temp.swtest.ru]
-- **Хостинг:** [https://cp.sweb.ru/main](SpaceWeb)
+- **Ссылка на сайт:** http://saviorcheg.temp.swtest.ru
+- **Хостинг:** https://cp.sweb.ru/main
 - **База данных:** MySQL
 - **Язык программирования:** PHP
 
